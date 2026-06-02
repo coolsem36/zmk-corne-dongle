@@ -197,7 +197,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
-- p: [1, 2, 10, 11]
+- p: [2, 1]
   k: $$mdi:keyboard-esc$$
 - p: [10, 11]
   k: {t: '$$mdi:backspace$$', type: backspace}
