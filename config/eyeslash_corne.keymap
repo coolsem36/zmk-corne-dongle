@@ -55,7 +55,7 @@
 
         qw {
             bindings = <&kp ESCAPE>;
-            key-positions = <1 2 10 11>;
+            key-positions = <2 1>;
         };
 
         op {
